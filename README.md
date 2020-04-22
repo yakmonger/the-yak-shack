@@ -1,1 +1,1 @@
-# the-yak-shack
+# the yak shack
